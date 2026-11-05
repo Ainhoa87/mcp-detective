@@ -1,0 +1,30 @@
+{
+  "INC-001": {
+    "sistema": "portal_acceso",
+    "eventos": [
+      {"hora": "08:41", "usuario": "ana", "ip": "198.51.100.10", "evento": "LOGIN_FAILED"},
+      {"hora": "08:42", "usuario": "ana", "ip": "198.51.100.10", "evento": "LOGIN_SUCCESS"}
+    ]
+  },
+  "INC-002": {
+    "sistema": "portal_acceso",
+    "eventos": [
+      {"hora": "02:10", "usuario": "admin", "ip": "203.0.113.25", "evento": "LOGIN_FAILED"},
+      {"hora": "02:11", "usuario": "admin", "ip": "203.0.113.25", "evento": "LOGIN_FAILED"},
+      {"hora": "02:12", "usuario": "admin", "ip": "203.0.113.25", "evento": "LOGIN_FAILED"},
+      {"hora": "02:13", "usuario": "admin", "ip": "203.0.113.25", "evento": "LOGIN_FAILED"},
+      {"hora": "02:14", "usuario": "admin", "ip": "203.0.113.25", "evento": "LOGIN_FAILED"},
+      {"hora": "02:15", "usuario": "admin", "ip": "203.0.113.25", "evento": "LOGIN_FAILED"}
+    ]
+  },
+  "INC-003": {
+    "sistema": "panel_administracion",
+    "eventos": [
+      {"hora": "03:00", "usuario": "admin", "ip": "192.0.2.50", "evento": "LOGIN_FAILED"},
+      {"hora": "03:01", "usuario": "admin", "ip": "192.0.2.50", "evento": "LOGIN_FAILED"},
+      {"hora": "03:02", "usuario": "admin", "ip": "192.0.2.50", "evento": "LOGIN_FAILED"},
+      {"hora": "03:03", "usuario": "admin", "ip": "192.0.2.50", "evento": "LOGIN_FAILED"},
+      {"hora": "03:04", "usuario": "admin", "ip": "192.0.2.50", "evento": "LOGIN_SUCCESS"}
+    ]
+  }
+}
