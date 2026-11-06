@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-detective": {
+      "command": "python",
+      "args": ["C:/Users/Eigenaar/Proyectos/mcp-detective/server.py"]
+    }
+  }
+}
