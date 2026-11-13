@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "mcp-detective": {
+      "type": "stdio",
+      "command": "C:/Users/Eigenaar/Proyectos/mcp-detective/.venv/Scripts/python.exe",
+      "args": [
+        "C:/Users/Eigenaar/Proyectos/mcp-detective/server.py"
+      ]
+    }
+  },
+  "inputs": []
+}
